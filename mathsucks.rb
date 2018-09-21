@@ -1,7 +1,6 @@
 class Math 
   attr_accessor :calculus, :algebra, :geometry, :activity
-  
-  def initialize (calculus, algebra, geometry)
+   def initialize (calculus, algebra, geometry)
     @calculus = calculus 
     @algenra = algebra 
     @geometry = geometry 
